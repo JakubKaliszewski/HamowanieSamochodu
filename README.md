@@ -8,5 +8,7 @@ Do realizacji zadania wykorzystaliśmy:
 
 Był to nasz pierwszy kontakt z tą technologią oraz z tworzeniem programu z interfejsem graficznym. Sporo się nauczyliśmy, jednak kod nie jest idealny. W ogóle nie korzystaliśmy niestety z obiektowości języka Python, gdyż na 1. roku studiów jeszcze byliśmy "zieloni".
 
-#Uruchomienie programu
+Uruchomienie programu
+-----------
+
 python START.py
