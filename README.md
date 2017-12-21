@@ -1,5 +1,5 @@
 # HamowanieSamochodu
-Projekt uczelniany na Podstawy Fizyki, przedstawia on zagadnienia hamowania samochodu. Autorami są: Mateusz Ciesielski, Artur Matusiak oraz Jakub Kaliszewski(JakubKaliszewski).
+Projekt uczelniany na Podstawy Fizyki, przedstawia on zagadnienia hamowania samochodu. Autorami są: Mateusz Ciesielski(MateuszCiesielski), Artur Matusiak(ArturMatusiak010) oraz Jakub Kaliszewski(JakubKaliszewski).
 
 Do realizacji zadania wykorzystaliśmy:
 1.  Python 2.7x,
